@@ -1,0 +1,107 @@
+body {
+    line-height: 30px;
+}
+
+#home .logo,
+#services h1,
+#portfolio h1,
+#team h1 {
+    text-transform: uppercase;
+
+}
+
+#home .head,
+.beginning .beg-padge,
+#portfolio h2,
+#team .t-one h4 {
+    text-transform: capitalize;
+}
+
+.beginning h1 {
+    padding-right: 2.5rem;
+}
+
+.beginning {
+    margin-top: 12rem;
+}
+
+.beginning p {
+    font-size: 5rem;
+    margin-top: 3rem;
+
+}
+
+.beginning button {
+    margin-top: 6rem;
+}
+
+#services,
+#portfolio,
+#team {
+    margin-top: 8rem;
+}
+
+#services p {
+    font-size: 1.5rem;
+}
+
+#services #one,
+#services #two,
+#services #three {
+    color: rgb(255, 255, 255);
+    background-color: rgb(236, 176, 10);
+    font-size: 2rem;
+    margin-top: 4rem;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+
+
+}
+
+#services #one {
+
+    padding-right: .5rem;
+}
+
+
+#services h2 {
+    margin-top: 1rem;
+    text-transform: capitalize;
+}
+
+#services .ser-pra {
+    padding: 0px 10px 5px 0px;
+    line-height: .5rem;
+}
+
+#services .ser-pra p {
+    font-size: 1rem;
+    margin-top: 1rem;
+
+}
+
+#portfolio p {
+    margin-bottom: 3rem;
+}
+
+
+#portfolio .pro-one,
+#portfolio .pro-two {
+    margin-left: 17rem;
+    margin-right: 17rem;
+    padding-bottom: 2.5rem;
+
+}
+
+#portfolio .pro-one h2,
+#portfolio .pro-two h2 {
+    padding-top: 1.5rem;
+}
+
+#team .t-one {
+    margin-top: 3rem;
+}
+
+#team .t-one h4 {
+    margin-top: .5rem;
+}
